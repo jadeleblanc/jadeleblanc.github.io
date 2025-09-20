@@ -293,3 +293,24 @@ document.addEventListener('keydown', (e) => {
 console.log('%c👋 Hello there, developer!', 'color: #6366f1; font-size: 20px; font-weight: bold;');
 console.log('%cWelcome to my portfolio! Feel free to explore the code.', 'color: #374151; font-size: 14px;');
 console.log('%c💡 Try the Konami Code for a surprise!', 'color: #f59e0b; font-size: 12px;');
+
+// scroll to top button 
+// Get the button
+let mybutton = document.getElementById("myBtn");
+
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    mybutton.style.display = "block";
+  } else {
+    mybutton.style.display = "none";
+  }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+}
