@@ -1,4 +1,4 @@
-# Jade LeBlanc - Web Developer Portfolio
+# Jade Leblanc - Web Developer Portfolio
 
 A modern, responsive portfolio website showcasing my journey as a web development student. Built with clean HTML5, CSS3, and JavaScript, featuring smooth animations, interactive elements, and a mobile-first design.
 
