@@ -31,7 +31,7 @@ A modern, responsive portfolio website showcasing my journey as a web developmen
 
 Feel free to reach out for collaboration opportunities or just to say hello!
 
-- Email: jade.leblanc@email.com
+- Email: jadeleblanc0@hotmail.com
 - LinkedIn: [linkedin.com/in/jadeleblanc](https://linkedin.com/in/jadeleblanc)
 - GitHub: [github.com/jadeleblanc](https://github.com/jadeleblanc)
 
