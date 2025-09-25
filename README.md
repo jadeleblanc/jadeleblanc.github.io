@@ -27,12 +27,6 @@ A modern, responsive portfolio website showcasing my journey as a web developmen
 4. **Featured Projects**: Showcase of development projects
 5. **Contact**: Contact form and social media links
 
-## 🚀 Getting Started
-
-1. Clone the repository
-2. Open `index.html` in your web browser
-3. Or visit the live site at: https://jadeleblanc.github.io
-
 ## 📧 Contact
 
 Feel free to reach out for collaboration opportunities or just to say hello!
@@ -43,4 +37,4 @@ Feel free to reach out for collaboration opportunities or just to say hello!
 
 ---
 
-© 2024 Jade LeBlanc. All rights reserved.
+© 2025 Jade Leblanc. All rights reserved.
